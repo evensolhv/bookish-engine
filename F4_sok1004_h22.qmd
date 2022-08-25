@@ -7,7 +7,7 @@ editor: visual
 
 ## Introduksjon
 
-Dette dokumentet er laget i Quarto. Her kan man sy sammen kode med annet innhold i et ferdig dokument. Lær mer om Quarto på <https://quarto.org>.
+Dette dokumentet er laget i Quarto. Her kan man sy sammen kode med annet innhold i et ferdig dokument. Lær mer om Quarto på <https://quarto.org>. Her gjør jeg min første endring.
 
 ## Kjøre kode
 
